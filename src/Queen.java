@@ -20,6 +20,7 @@ class Queen extends Piece {
             return true;
         } else {
             return false;
+
         }
     }
 }
